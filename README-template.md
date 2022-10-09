@@ -1,12 +1,13 @@
 # Frontend Mentor - 3-column preview card component solution
+*******************************************************************
 
 This is a solution to the [3-column preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Links](#links)
+  - [Screenshot](#screenshot)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
@@ -22,16 +23,14 @@ Users should be able to:
 - View the optimal layout depending on their device's screen size
 - See hover states for interactive elements
 
-### Screenshot
-(images/solution-screenshot-570x600.jpg)
-(images/solution-screenshot-1366x637.png)
-
-
-
 ### Links
 
 - Solution URL: https://github.com/mohamedshawgi/three-cards-challenge.git
 - Live Site URL: https://mohamedshawgi.github.io/three-cards-challenge/
+
+### Screenshot
+(images/solution-screenshot-570x600.jpg)
+(images/solution-screenshot-1366x637.png)
 
 
 ### Built with
