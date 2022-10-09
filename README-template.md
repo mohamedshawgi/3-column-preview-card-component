@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://github.com/mohamedshawgi/three-cards-challenge.git
+- Solution URL: https://github.com/mohamedshawgi/3-column-preview-card-component.git
 - Live Site URL: https://mohamedshawgi.github.io/three-cards-challenge/
 
 ### Screenshot
